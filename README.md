@@ -1,7 +1,7 @@
 ## This is Yassine's coding room
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ed591d52-b021-4c16-9842-119f090bc047" style="text-align: center;" />
+  <img src="https://github.com/user-attachments/assets/ed591d52-b021-4c16-9842-119f090bc047" width ="500" style="text-align: center;" />
 </div>
 
 
