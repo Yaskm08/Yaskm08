@@ -1,6 +1,5 @@
 ## Yassine's coding Lain
 
-## <head><meta name="google-site-verification" content="biZZN5qDGqZF181cRoGH4hlDMW1k-SA1Rit9uhfF3Gc" </head>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ed591d52-b021-4c16-9842-119f090bc047" width ="200" style="text-align: center;" />
