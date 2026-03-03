@@ -1,32 +1,23 @@
 ## Yassine Kraiem
 
-<div align="center">
-  <!-- Replace this later with a simple, clean headshot -->
-  <img src="https://github.com/user-attachments/assets/ed591d52-b021-4c16-9842-119f090bc047" width="200" style="text-align: center;" />
-</div>
-
----
+I build things at the intersection of **software engineering** and **applied ML**.
 
 ### About me
 
-I’m a **software engineer** focused on building reliable web backends and applied ML systems.  
-I enjoy taking ideas from prototype to something real that people can use.  
-Right now I’m looking for Software Engineering, AI/ML, or Robotics internships.
+I like turning ugly real‑world problems into clean, reliable code.  
+Recently I’ve been shipping web backends, ML-powered features, and small tools that actually get used.  
+I’m currently looking for Software Engineering, AI/ML, or Robotics internships.
 
-- Strong in Python, TypeScript/JavaScript, and C++
-- Experience with web backends (Flask / Node.js) and modern frontends (React / Next.js)
+- Python, TypeScript/JavaScript, C++ for production code
+- Web: React / Next.js, Flask / Node.js, REST APIs
 - Background in algorithms, robotics, and applied machine learning
 
----
+### What I’m working on
 
-### Current focus
+- Small production-style projects (APIs, dashboards, utilities)
+- Experiments with ML models that go beyond toy datasets
+- Cleaning up and documenting my repos so they’re easy to read and reuse
 
-- Shipping small, production‑style projects (APIs, dashboards, tools)
-- Applying ML to real problems, not just toy notebooks
-- Contributing to open‑source and collaborating with other engineers
-
----
-
-### Core tech
+### Core stack
 
 Python · C++ · TypeScript · React / Next.js · Flask / Node.js · SQL · Linux · Git
